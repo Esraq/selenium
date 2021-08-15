@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsJrdcVpez3VEg3Znh74a2HqC4+qWR+V9qZ4rcgXRXpn7cROwe/3/0UN2mvnr3zDiSat4mBPAhQ8kRrI4bBl+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\selenium\\SeleniumFirst\\SeleniumFirst\\SeleniumFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\selenium.mozilla.firefox.webdriver\\0.6.0.1\\selenium.mozilla.firefox.webdriver.0.6.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta4\\selenium.webdriver.4.0.0-beta4.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.29.1\\selenium.webdriver.geckodriver.0.29.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\webdriver.chromedriver.win32\\92.0.4515.107\\webdriver.chromedriver.win32.92.0.4515.107.nupkg.sha512"
+  ],
+  "logs": []
+}

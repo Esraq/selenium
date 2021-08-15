@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.exe
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.deps.json
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.runtimeconfig.json
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.runtimeconfig.dev.json
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.dll
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\SeleniumFirst.pdb
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.AssemblyInfo.cs
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.csproj.CopyComplete
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.dll
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.pdb
+C:\Users\hp\Desktop\selenium\SeleniumFirst\SeleniumFirst\obj\Debug\netcoreapp3.1\SeleniumFirst.genruntimeconfig.cache
